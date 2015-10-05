@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Gradient.cpp
-// Author      : Dailos
+// Author      : Dailos Guerra
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
